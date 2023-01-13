@@ -1,0 +1,2265 @@
+# sent_id = 1
+# text = It is hers .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It is his .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It is theirs .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It is mine .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It is yours .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's hers .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's his .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's theirs .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's mine .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's yours .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's all hers !
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	!	!	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's all his !
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	!	!	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's all theirs !
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	!	!	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's all mine !
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+5	!	!	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's all yours !
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	all	all	DET	DT	Case=Nom	4	det:predet	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+5	!	!	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's mostly hers .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mostly	mostly	ADV	RB	_	4	advmod	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's mostly his .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mostly	mostly	ADV	RB	_	4	advmod	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's mostly theirs .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mostly	mostly	ADV	RB	_	4	advmod	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's mostly mine .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mostly	mostly	ADV	RB	_	4	advmod	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's mostly yours .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mostly	mostly	ADV	RB	_	4	advmod	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's not hers !
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	not	not	PART	RB	_	4	advmod	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	!	!	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's not his !
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	not	not	PART	RB	_	4	advmod	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	!	!	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's not theirs !
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	not	not	PART	RB	_	4	advmod	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	!	!	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's not mine !
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	not	not	PART	RB	_	4	advmod	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+5	!	!	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It 's not yours !
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	not	not	PART	RB	_	4	advmod	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+5	!	!	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It is n't hers .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	n't	not	PART	RB	_	4	advmod	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It is n't his .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	n't	not	PART	RB	_	4	advmod	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It is n't theirs .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	n't	not	PART	RB	_	4	advmod	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It is n't mine .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	n't	not	PART	RB	_	4	advmod	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = It is n't yours .
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	n't	not	PART	RB	_	4	advmod	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = it aint hers .
+1	it	it	PRON	VBZ	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	aint	aint	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = it aint his .
+1	it	it	PRON	VBZ	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	aint	aint	VERB	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = it aint theirs .
+1	it	it	PRON	VBZ	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	aint	aint	VERB	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = it aint mine .
+1	it	it	PRON	VBZ	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	aint	aint	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = it aint yours .
+1	it	it	PRON	VBZ	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	aint	aint	VERB	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's all hers !
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	all	all	DET	DT	Case=Nom	5	nmod	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	!	!	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's all his !
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	all	all	DET	DT	Case=Nom	5	nmod	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	!	!	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's all theirs !
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	all	all	DET	DT	Case=Nom	5	nmod	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	!	!	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's all mine !
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	all	all	DET	DT	Case=Nom	5	nmod	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+6	!	!	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's all yours !
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	all	all	DET	DT	Case=Nom	5	nmod	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+6	!	!	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's mostly hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mostly	mostly	ADV	RB	_	5	advmod	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's mostly his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mostly	mostly	ADV	RB	_	5	advmod	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's mostly theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mostly	mostly	ADV	RB	_	5	advmod	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's mostly mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mostly	mostly	ADV	RB	_	5	advmod	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's mostly yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	mostly	mostly	ADV	RB	_	5	advmod	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's not hers !
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	not	not	PART	RB	_	5	advmod	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	!	!	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's not his !
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	not	not	PART	RB	_	5	advmod	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	!	!	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's not theirs !
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	not	not	PART	RB	_	5	advmod	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	!	!	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's not mine !
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	not	not	PART	RB	_	5	advmod	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+6	!	!	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car 's not yours !
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	not	not	PART	RB	_	5	advmod	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+6	!	!	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is n't hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	n't	not	PART	RB	_	5	advmod	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is n't his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	n't	not	PART	RB	_	5	advmod	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is n't theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	n't	not	PART	RB	_	5	advmod	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is n't mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	n't	not	PART	RB	_	5	advmod	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is n't yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	n't	not	PART	RB	_	5	advmod	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car aint hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	aint	aint	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car aint his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	aint	aint	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car aint theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	aint	aint	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car aint mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	aint	aint	PART	RB	_	4	advmod	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car aint yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	aint	aint	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Any car of hers sells quickly .
+1	Any	any	DET	DT	_	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	sells	sell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	quickly	quickly	ADV	RB	_	5	advmod	_	_
+7	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Any car of his sells quickly .
+1	Any	any	DET	DT	_	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	sells	sell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	quickly	quickly	ADV	RB	_	5	advmod	_	_
+7	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Any car of theirs sells quickly .
+1	Any	any	DET	DT	_	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	sells	sell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	quickly	quickly	ADV	RB	_	5	advmod	_	_
+7	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Any car of mine sells quickly .
+1	Any	any	DET	DT	_	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	sells	sell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	quickly	quickly	ADV	RB	_	5	advmod	_	_
+7	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Any car of yours sells quickly .
+1	Any	any	DET	DT	_	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	sells	sell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	quickly	quickly	ADV	RB	_	5	advmod	_	_
+7	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = There is hers .
+1	There	there	PRON	EX	_	2	expl	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = There is his .
+1	There	there	PRON	EX	_	2	expl	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = There is theirs .
+1	There	there	PRON	EX	_	2	expl	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = There is mine .
+1	There	there	PRON	EX	_	2	expl	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = There is yours .
+1	There	there	PRON	EX	_	2	expl	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is at hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	IN	_	5	case	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	xcomp	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is at his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	IN	_	5	case	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	xcomp	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is at theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	IN	_	5	case	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	xcomp	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is at mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	IN	_	5	case	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	xcomp	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car is at yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	IN	_	5	case	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	xcomp	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Hers is nice .
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	nice	ADJ	JJ	Degree=Pos	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = His is nice .
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	nice	ADJ	JJ	Degree=Pos	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Theirs is nice .
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	nice	ADJ	JJ	Degree=Pos	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Mine is nice .
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	nice	ADJ	JJ	Degree=Pos	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Yours is nice .
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nice	nice	ADJ	JJ	Degree=Pos	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Hers drove responsively .
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	responsively	responsively	ADV	RB	_	2	advmod	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = His drove responsively .
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	responsively	responsively	ADV	RB	_	2	advmod	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Theirs drove responsively .
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	responsively	responsively	ADV	RB	_	2	advmod	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Mine drove responsively .
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	responsively	responsively	ADV	RB	_	2	advmod	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Yours drove responsively .
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	responsively	responsively	ADV	RB	_	2	advmod	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Hers accelerated .
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	accelerated	accelerate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = His accelerated .
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	accelerated	accelerate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Theirs accelerated .
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	accelerated	accelerate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Mine accelerated .
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	accelerated	accelerate	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Yours accelerated .
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	accelerated	accelerate	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Hers hit bumps .
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = His hit bumps .
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Theirs hit bumps .
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Mine hit bumps .
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Yours hit bumps .
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer gave hers fresh paint .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	iobj	_	_
+5	fresh	fresh	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
+7	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer gave his fresh paint .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	iobj	_	_
+5	fresh	fresh	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
+7	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer gave theirs fresh paint .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	iobj	_	_
+5	fresh	fresh	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
+7	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer gave mine fresh paint .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	iobj	_	_
+5	fresh	fresh	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
+7	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer gave yours fresh paint .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	iobj	_	_
+5	fresh	fresh	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
+7	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers saw hers .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers saw his .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers saw theirs .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers saw mine .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers saw yours .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	obj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers liked that hers cleaned easily .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easily	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers liked that his cleaned easily .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easily	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers liked that theirs cleaned easily .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easily	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers liked that mine cleaned easily .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easily	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers liked that yours cleaned easily .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easily	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers liked that hers sold quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers liked that his sold quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers liked that theirs sold quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers liked that mine sold quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers liked that yours sold quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers knew that hers cleaned easily .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easily	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers knew that his cleaned easily .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easily	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers knew that theirs cleaned easily .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easily	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers knew that mine cleaned easily .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easily	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers knew that yours cleaned easily .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easily	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers knew that hers sold quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers knew that his sold quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers knew that theirs sold quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers knew that mine sold quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealers knew that yours sold quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	knew	know	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing hers .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing his .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing theirs .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing mine .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing yours .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like cleaning hers .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cleaning	clean	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like cleaning his .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cleaning	clean	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like cleaning theirs .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cleaning	clean	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like cleaning mine .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cleaning	clean	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like cleaning yours .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	cleaning	clean	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer 's cars and hers sell quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	's	's	PART	POS	_	2	case	_	_
+4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
+5	and	and	CCONJ	CC	_	6	cc	_	_
+6	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
+7	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	quickly	quickly	ADV	RB	_	7	advmod	_	_
+9	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer 's cars and his sell quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	's	's	PART	POS	_	2	case	_	_
+4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
+5	and	and	CCONJ	CC	_	6	cc	_	_
+6	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
+7	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	quickly	quickly	ADV	RB	_	7	advmod	_	_
+9	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer 's cars and theirs sell quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	's	's	PART	POS	_	2	case	_	_
+4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
+5	and	and	CCONJ	CC	_	6	cc	_	_
+6	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
+7	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	quickly	quickly	ADV	RB	_	7	advmod	_	_
+9	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer 's cars and mine sell quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	's	's	PART	POS	_	2	case	_	_
+4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
+5	and	and	CCONJ	CC	_	6	cc	_	_
+6	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	conj	_	_
+7	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	quickly	quickly	ADV	RB	_	7	advmod	_	_
+9	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer 's cars and yours sell quickly .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	4	nsubj	_	_
+3	's	's	PART	POS	_	2	case	_	_
+4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
+5	and	and	CCONJ	CC	_	6	cc	_	_
+6	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	conj	_	_
+7	sell	sell	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	quickly	quickly	ADV	RB	_	7	advmod	_	_
+9	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Hers and the dealer 's sold quickly .
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+2	and	and	CCONJ	CC	_	4	cc	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_
+5	's	's	PART	POS	_	4	case	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = His and the dealer 's sold quickly .
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+2	and	and	CCONJ	CC	_	4	cc	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_
+5	's	's	PART	POS	_	4	case	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Theirs and the dealer 's sold quickly .
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+2	and	and	CCONJ	CC	_	4	cc	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_
+5	's	's	PART	POS	_	4	case	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Mine and the dealer 's sold quickly .
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
+2	and	and	CCONJ	CC	_	4	cc	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_
+5	's	's	PART	POS	_	4	case	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Yours and the dealer 's sold quickly .
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
+2	and	and	CCONJ	CC	_	4	cc	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_
+5	's	's	PART	POS	_	4	case	_	_
+6	sold	sell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	quickly	quickly	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car before hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	before	before	ADP	IN	_	7	case	_	_
+7	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car before his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	before	before	ADP	IN	_	7	case	_	_
+7	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car before theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	before	before	ADP	IN	_	7	case	_	_
+7	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car before mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	before	before	ADP	IN	_	7	case	_	_
+7	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car before yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	before	before	ADP	IN	_	7	case	_	_
+7	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = After hers , the dealer cleaned the car .
+1	After	after	ADP	IN	_	2	case	_	_
+2	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	obl	_	_
+3	,	,	PUNCT	,	_	6	punct	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	dealer	dealer	NOUN	NN	Number=Sing	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	car	car	NOUN	NN	Number=Sing	6	obj	_	_
+9	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = After his , the dealer cleaned the car .
+1	After	after	ADP	IN	_	2	case	_	_
+2	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	obl	_	_
+3	,	,	PUNCT	,	_	6	punct	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	dealer	dealer	NOUN	NN	Number=Sing	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	car	car	NOUN	NN	Number=Sing	6	obj	_	_
+9	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = After theirs , the dealer cleaned the car .
+1	After	after	ADP	IN	_	2	case	_	_
+2	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	obl	_	_
+3	,	,	PUNCT	,	_	6	punct	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	dealer	dealer	NOUN	NN	Number=Sing	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	car	car	NOUN	NN	Number=Sing	6	obj	_	_
+9	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = After mine , the dealer cleaned the car .
+1	After	after	ADP	IN	_	2	case	_	_
+2	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	obl	_	_
+3	,	,	PUNCT	,	_	6	punct	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	dealer	dealer	NOUN	NN	Number=Sing	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	car	car	NOUN	NN	Number=Sing	6	obj	_	_
+9	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = After yours , the dealer cleaned the car .
+1	After	after	ADP	IN	_	2	case	_	_
+2	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	obl	_	_
+3	,	,	PUNCT	,	_	6	punct	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	dealer	dealer	NOUN	NN	Number=Sing	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	car	car	NOUN	NN	Number=Sing	6	obj	_	_
+9	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Hers was cleaned .
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = His was cleaned .
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Theirs was cleaned .
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Mine was cleaned .
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Yours was cleaned .
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car of hers drove responsively .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	responsively	responsively	ADV	RB	_	5	advmod	_	_
+7	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car of his drove responsively .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	responsively	responsively	ADV	RB	_	5	advmod	_	_
+7	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car of theirs drove responsively .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	responsively	responsively	ADV	RB	_	5	advmod	_	_
+7	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car of mine drove responsively .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+6	responsively	responsively	ADV	RB	_	5	advmod	_	_
+7	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car of yours drove responsively .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+6	responsively	responsively	ADV	RB	_	5	advmod	_	_
+7	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car of hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	of	of	ADP	IN	_	7	case	_	_
+7	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car of his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	of	of	ADP	IN	_	7	case	_	_
+7	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car of theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	of	of	ADP	IN	_	7	case	_	_
+7	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car of mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	of	of	ADP	IN	_	7	case	_	_
+7	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car of yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	of	of	ADP	IN	_	7	case	_	_
+7	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car , hers , was cleaned .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	7	nsubj	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	appos	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+8	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car , his , was cleaned .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	7	nsubj	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	appos	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+8	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car , theirs , was cleaned .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	7	nsubj	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	appos	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+8	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car , mine , was cleaned .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	7	nsubj	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	appos	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+8	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car , yours , was cleaned .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	7	nsubj	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	appos	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+8	.	.	PUNCT	.	_	7	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = One of hers was cleaned .
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	5	nsubj	_	_
+2	of	of	ADP	IN	_	3	case	_	_
+3	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = One of his was cleaned .
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	5	nsubj	_	_
+2	of	of	ADP	IN	_	3	case	_	_
+3	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = One of theirs was cleaned .
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	5	nsubj	_	_
+2	of	of	ADP	IN	_	3	case	_	_
+3	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = One of mine was cleaned .
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	5	nsubj	_	_
+2	of	of	ADP	IN	_	3	case	_	_
+3	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = One of yours was cleaned .
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	5	nsubj	_	_
+2	of	of	ADP	IN	_	3	case	_	_
+3	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nmod	_	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car of hers was cleaned .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+7	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car of his was cleaned .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+7	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car of theirs was cleaned .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+7	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car of mine was cleaned .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+7	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The car of yours was cleaned .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	car	car	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
+6	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+7	.	.	PUNCT	.	_	6	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Hers , the dealer cleaned .
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	obl	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	5	nsubj	_	_
+5	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = His , the dealer cleaned .
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	obl	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	5	nsubj	_	_
+5	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Theirs , the dealer cleaned .
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	obl	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	5	nsubj	_	_
+5	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Mine , the dealer cleaned .
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	obl	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	5	nsubj	_	_
+5	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Yours , the dealer cleaned .
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	obl	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	dealer	dealer	NOUN	NN	Number=Sing	5	nsubj	_	_
+5	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing cars , especially hers .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	especially	especially	ADV	RB	_	7	orphan	_	_
+7	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	_
+8	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing cars , especially his .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	especially	especially	ADV	RB	_	7	orphan	_	_
+7	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	_
+8	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing cars , especially theirs .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	especially	especially	ADV	RB	_	7	orphan	_	_
+7	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	_
+8	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing cars , especially mine .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	especially	especially	ADV	RB	_	7	orphan	_	_
+7	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	conj	_	_
+8	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing cars , especially yours .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	especially	especially	ADV	RB	_	7	orphan	_	_
+7	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	conj	_	_
+8	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing cars , hers especially .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	_
+7	especially	especially	ADV	RB	_	6	orphan	_	_
+8	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing cars , his especially .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	_
+7	especially	especially	ADV	RB	_	6	orphan	_	_
+8	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing cars , theirs especially .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	_
+7	especially	especially	ADV	RB	_	6	orphan	_	_
+8	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing cars , mine especially .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	conj	_	_
+7	especially	especially	ADV	RB	_	6	orphan	_	_
+8	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Dealers like seeing cars , yours especially .
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	conj	_	_
+7	especially	especially	ADV	RB	_	6	orphan	_	_
+8	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car : it was hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	:	:	PUNCT	:	_	3	punct	_	_
+7	it	it	PRON	VBZ	_	9	nsubj	_	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
+9	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	parataxis	_	_
+10	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car : it was his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	:	:	PUNCT	:	_	3	punct	_	_
+7	it	it	PRON	VBZ	_	9	nsubj	_	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
+9	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	parataxis	_	_
+10	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car : it was theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	:	:	PUNCT	:	_	3	punct	_	_
+7	it	it	PRON	VBZ	_	9	nsubj	_	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
+9	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	parataxis	_	_
+10	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car : it was mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	:	:	PUNCT	:	_	3	punct	_	_
+7	it	it	PRON	VBZ	_	9	nsubj	_	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
+9	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	parataxis	_	_
+10	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer cleaned the car : it was yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
+6	:	:	PUNCT	:	_	3	punct	_	_
+7	it	it	PRON	VBZ	_	9	nsubj	_	_
+8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
+9	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	parataxis	_	_
+10	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Hers 'll do .
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	do	do	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = His 'll do .
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	do	do	VERB	VB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Theirs 'll do .
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	do	do	VERB	VB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Mine 'll do .
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	do	do	VERB	VB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Yours 'll do .
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
+3	do	do	VERB	VB	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer gave fresh paint to hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	fresh	fresh	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
+6	to	to	ADP	IN	_	7	case	_	_
+7	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer gave fresh paint to his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	fresh	fresh	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
+6	to	to	ADP	IN	_	7	case	_	_
+7	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer gave fresh paint to theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	fresh	fresh	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
+6	to	to	ADP	IN	_	7	case	_	_
+7	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer gave fresh paint to mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	fresh	fresh	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
+6	to	to	ADP	IN	_	7	case	_	_
+7	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer gave fresh paint to yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	fresh	fresh	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	paint	paint	NOUN	NN	Number=Sing	3	obj	_	_
+6	to	to	ADP	IN	_	7	case	_	_
+7	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer walked to hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	to	to	ADP	IN	_	3	case	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer walked to his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	to	to	ADP	IN	_	3	case	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer walked to theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	to	to	ADP	IN	_	3	case	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer walked to mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	to	to	ADP	IN	_	3	case	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer walked to yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	walked	walk	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	to	to	ADP	IN	_	3	case	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer drove using hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	using	use	VERB	VBG	VerbForm=Ger	3	advcl	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer drove using his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	using	use	VERB	VBG	VerbForm=Ger	3	advcl	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer drove using theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	using	use	VERB	VBG	VerbForm=Ger	3	advcl	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer drove using mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	using	use	VERB	VBG	VerbForm=Ger	3	advcl	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer drove using yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	drove	drive	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	using	use	VERB	VBG	VerbForm=Ger	3	advcl	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer went with hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	with	with	ADP	IN	_	3	case	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer went with his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	with	with	ADP	IN	_	3	case	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer went with theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	with	with	ADP	IN	_	3	case	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer went with mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	with	with	ADP	IN	_	3	case	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer went with yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	with	with	ADP	IN	_	3	case	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer waited at hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	IN	_	3	case	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer waited at his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	IN	_	3	case	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer waited at theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	IN	_	3	case	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer waited at mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	IN	_	3	case	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer waited at yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	waited	wait	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	at	at	ADP	IN	_	3	case	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer got into hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	into	into	ADP	IN	_	3	case	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer got into his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	into	into	ADP	IN	_	3	case	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer got into theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	into	into	ADP	IN	_	3	case	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer got into mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	into	into	ADP	IN	_	3	case	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer got into yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	into	into	ADP	IN	_	3	case	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer came from hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	from	from	ADP	IN	_	3	case	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer came from his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	from	from	ADP	IN	_	3	case	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer came from theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	from	from	ADP	IN	_	3	case	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer came from mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	from	from	ADP	IN	_	3	case	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer came from yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	from	from	ADP	IN	_	3	case	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer sat on hers .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	on	on	ADP	IN	_	3	case	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer sat on his .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	on	on	ADP	IN	_	3	case	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer sat on theirs .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	on	on	ADP	IN	_	3	case	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer sat on mine .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	on	on	ADP	IN	_	3	case	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer sat on yours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	sat	sit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	on	on	ADP	IN	_	3	case	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer recommended that hers get painted .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	get	get	VERB	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	painted	paint	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer recommended that his get painted .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	get	get	VERB	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	painted	paint	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer recommended that theirs get painted .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	get	get	VERB	VBP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	painted	paint	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer recommended that mine get painted .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	get	get	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	painted	paint	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = The dealer recommended that yours get painted .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
+3	recommended	recommend	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	get	get	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	painted	paint	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	_
+8	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Take hers .
+1	Take	take	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_
+2	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nsubj	_	_
+3	.	.	PUNCT	.	_	1	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Take his .
+1	Take	take	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	his	he	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nsubj	_	_
+3	.	.	PUNCT	.	_	1	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Take theirs .
+1	Take	take	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_
+2	theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nsubj	_	_
+3	.	.	PUNCT	.	_	1	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Take mine .
+1	Take	take	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_
+2	mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nsubj	_	_
+3	.	.	PUNCT	.	_	1	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Take yours .
+1	Take	take	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	_	_
+2	yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	1	nsubj	_	_
+3	.	.	PUNCT	.	_	1	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Hers is easy to clean .
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = His is easy to clean .
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Theirs is easy to clean .
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Mine is easy to clean .
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Yours is easy to clean .
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	_
+6	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Hers parks .
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	parks	park	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = His parks .
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	parks	park	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Theirs parks .
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	parks	park	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Mine parks .
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	parks	park	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Yours parks .
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	parks	park	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Hers broke .
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = His broke .
+1	His	his	PRON	PRP	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Theirs broke .
+1	Theirs	theirs	PRON	PRP	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Mine broke .
+1	Mine	mine	PRON	PRP	Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
+# sent_id = 1
+# text = Yours broke .
+1	Yours	yours	PRON	PRP	Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	broke	break	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No
